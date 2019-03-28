@@ -1,6 +1,6 @@
 spring:
   profiles:
-    active: dev  #表示与服务提供者的profile值对应就会注册下列多个服务提供者
+    active: dev     #表示与服务提供者的profile值对应就会注册下列多个服务提供者
 ---
 server:
   port: 8001
